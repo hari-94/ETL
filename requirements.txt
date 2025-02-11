@@ -1,0 +1,6 @@
+yfinance
+pandas
+mysql-connector-python
+snowflake-connector-python
+apache-airflow
+python-dotenv  # For handling environment variables
