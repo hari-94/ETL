@@ -21,7 +21,10 @@ This project **automates the extraction, transformation, and loading (ETL) of st
 ---
 
 ## 📂 Project Structure  
-├── stock_etl.py # Main ETL script ├── .env # Environment variables (Snowflake credentials) ├── requirements.txt # Dependencies └── README.md # Project documentation
+├── stock_etl.py # Main ETL script 
+├── .env # Environment variables (Snowflake credentials)
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 🔍 Key Features
 ✔ Extracts 7-day historical stock data using Yahoo Finance
