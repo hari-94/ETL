@@ -22,7 +22,7 @@ This project **automates the extraction, transformation, and loading (ETL) of st
 
 ## 📂 Project Structure  
  - stock_etl.py # Main ETL script 
- - .env # Environment variables (Snowflake credentials)
+ - .env.example # Template for .env, which holds the Snowflake credentials and is not committed
  - requirements.txt # Dependencies
  - README.md # Project documentation
 
